@@ -10,6 +10,8 @@ public class TestMainClass {
 	
 	public static void method2(){
 		System.out.println("In method2");
+		
+		System.out.println("In method2 another statement");
 	}
 
 }

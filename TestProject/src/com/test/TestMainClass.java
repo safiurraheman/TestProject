@@ -12,6 +12,8 @@ public class TestMainClass {
 		System.out.println("In method2");
 		
 		System.out.println("In method2 another statement");
+		System.out.println("----------------------------");
+		System.out.println("In method2 one more statement");
 	}
 
 }
